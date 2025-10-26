@@ -1,67 +1,76 @@
-# 👋 Hi, I’m Ashley Reagan 🌎  
+<h1 align="center">🌎 Ashley Reagan</h1>
 
-I’m a **Physical Scientist** at the **U.S. Department of the Interior – Office of Surface Mining Reclamation & Enforcement (OSMRE)**, where I oversee **Abandoned Mine Land (AML)** programs across **Ohio, Pennsylvania, and Maryland**.  
-My work bridges **GIS, AI, and reclamation science**, bringing deep learning and modern geospatial analytics into regulatory oversight and environmental restoration.
+<p align="center">
+  <em>Physical Scientist • Geospatial Systems Developer • Environmental AI</em><br>
+  <a href="https://github.com/ashleyreagan/wv-tree-counter">🌲 WV Tree Counter</a> |
+  <a href="https://github.com/ashleyreagan/water-quality-amd">💧 AMD Water Quality</a> |
+  <a href="https://github.com/ashleyreagan/MineAI">🪨 MineAI</a>
+</p>
 
-🛰️ **Remote Sensing** • 🌲 **AML Reclamation** • 🤖 **Deep Learning for Earth Science**
-
----
-
-## 🔬 Current Projects  
-
-- **🌾 [WV Tree Counter](https://github.com/ashleyreagan/wv-tree-counter)**  
-  Automated NDVI and vegetation mapping for OSMRE field oversight. Built in Python using Rasterio, TorchGeo, and Streamlit.
-
-- **🗺️ AML Map Stitcher** *(in development)*  
-  Automated georeferencing of scanned historic mine maps using OpenCV and AI-assisted ground control point detection.
-
-- **💧 Post-Fire & Hydrologic Risk Models**  
-  Deep learning tools for detecting erosion, subsidence, and flood risk on legacy mine lands across Appalachia.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11+-blue.svg?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-Pro%203.5-green.svg?style=flat-square&logo=esri&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-3.34%20Prizren-brightgreen.svg?style=flat-square&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/UAV-Field%20Ops-orange.svg?style=flat-square&logo=dji&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiDAR-Processing-lightgrey.svg?style=flat-square&logo=opencollective&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet.svg?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 🧰 Technical Stack  
-
-`Python` • `PyTorch` • `TorchGeo` • `Rasterio` • `GDAL` • `GeoPandas` •  
-`ArcGIS Pro` • `QGIS` • `YOLOv8` • `U-Net` • `LiDAR / 3DEP` • `Sentinel-2 / NAIP` • `Streamlit`  
+### 🛰️ Building intelligent maps for damaged landscapes  
+Integrating machine learning, remote sensing, and field science to restore mined and industrial lands through open-source geospatial tools.
 
 ---
 
-## 🗂️ Featured Repositories  
+## 🔬 Current Work
 
-| Repository | Description |
-|-------------|-------------|
-| [wv-tree-counter](https://github.com/ashleyreagan/wv-tree-counter) | NDVI and vegetation analysis pipeline for OSMRE’s AML program. |
-| [aml-gully-detector](#) | Deep learning U-Net for erosion and gully detection using NAIP imagery. |
-| [historic-mine-map-ai](#) | YOLOv8 + OCR pipeline for extracting features and annotations from legacy mine maps. |
-
----
-
-## 🧭 About Me  
-
-Before joining OSMRE, I worked in **environmental GIS** and **pipeline aerial surveillance**, leading unmanned systems operations and geospatial data collection for infrastructure integrity.  
-I hold a **B.A. in Geography**, and my research interests include **post-fire wildlife response**, **riparian restoration**, and **AI integration in federal environmental workflows**.
+| Project | Focus | Tech Stack |
+|----------|--------|-------------|
+| 🌲 **[WV Tree Counter](https://github.com/ashleyreagan/wv-tree-counter)** | Forestry AI for canopy cover and post-mining reforestation monitoring | DeepForest, NAIP, GeoPandas |
+| 💧 **[AMD Water Quality Analysis](https://github.com/ashleyreagan/water-quality-amd)** | Acid mine drainage monitoring and restoration analytics | Pandas, WQP API, Matplotlib |
+| 🪨 **[MineAI](https://github.com/ashleyreagan/MineAI)** | AI-assisted geospatial intelligence for historic mine maps | YOLOv8, OCR, Rasterio |
+| 🚁 **Pipeline Patrol System** | UAV-based anomaly detection for pipeline integrity and aerial mapping | LiDAR, OpenCV, Edge AI |
 
 ---
 
-## 💬 Connect  
+## 🪨 About Me  
 
-- 🌐 [LinkedIn](#)  
-- 🧠 [Medium / Research Notes](#)  
-- ✉️ [ashleyreagan@users.noreply.github.com](mailto:ashleyreagan@users.noreply.github.com)  
-- 🗂️ [OSMRE Projects Overview](#)
+I’m a **physical scientist and geospatial systems developer** working at the intersection of reclamation, AI, and environmental recovery. My work blends deep learning, field data, and remote sensing to help us see the land more clearly — especially the scars left behind by mining and industrial use.  
 
----
+I build tools that bridge **historic data and modern intelligence**:  
+- 🌲 [**WV Tree Counter**](https://github.com/ashleyreagan/wv-tree-counter) — an AI-assisted forestry pipeline mapping canopy density and post-mining reforestation progress using DeepForest and NAIP imagery.  
+- 💧 [**AMD Water Quality Analysis**](https://github.com/ashleyreagan/water-quality-amd) — monitoring and modeling acid mine drainage across abandoned mine lands, integrating WQP and field sensors for water restoration planning.  
+- 🧠 [**MineAI**](https://github.com/ashleyreagan/MineAI) — an OCR and YOLOv8-driven geospatial intelligence system that reads century-old underground mine maps, georeferences them, and turns them into modern datasets for OSMRE and AML programs.  
 
-## 🪶 Quick Stats  
+Before that, I designed a **pipeline patrol and anomaly detection system** for aerial safety monitoring — integrating UAV imagery, LiDAR, and edge AI for field response and integrity mapping.  
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-Pro-green)
-![PyTorch](https://img.shields.io/badge/DeepLearning-PyTorch-red)
-![DOI](https://img.shields.io/badge/Agency-OSMRE-blue)
-![Region](https://img.shields.io/badge/Region-Northern%20Appalachia-orange)
+My long-term goal is simple: to use data and machine intelligence to help the land heal — one map, one watershed, one canopy at a time.  
 
 ---
 
-_“Reclamation is restoration through data, collaboration, and care for the land.”_  
-— **Ashley Reagan Mitchell**
+## 🤝 Let's Collaborate  
+
+I’m always open to collaborations in:  
+- Environmental data science & AI  
+- Post-mining land restoration and AMD remediation  
+- UAV / LiDAR geospatial systems  
+- Open-source tools for federal or research applications  
+
+If you’re working on something similar — or just curious — feel free to reach out via GitHub or start a discussion in one of my repos.  
+> 🌍 *Science works best when we share the map.*  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashleyreagan&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleyreagan&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <sub>MIT © 2025 Ashley Reagan — Open collaboration encouraged. Built with ❤️ from the Appalachian coalfields.</sub>
+</p>
