@@ -3,7 +3,7 @@
 <p align="center">
   <em>Physical Scientist • Geospatial Systems Developer • Environmental AI</em><br>
   <a href="https://github.com/ashleyreagan/wv-tree-counter">🌲 WV Tree Counter</a> |
-  <a href="https://github.com/ashleyreagan/AMD_Water_Quality_Pipeline">💧 AMD Water Quality</a> |
+  <a href="https://github.com/ashleyreagan/water-quality-amd">💧 AMD Water Quality</a> |
   <a href="https://github.com/ashleyreagan/MineAI">🪨 MineAI</a>
 </p>
 
