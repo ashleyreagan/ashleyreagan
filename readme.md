@@ -3,7 +3,7 @@
 <p align="center">
   <em>Physical Scientist • Geospatial Systems Developer • Environmental AI</em><br>
   <a href="https://github.com/ashleyreagan/wv-tree-counter">🌲 WV Tree Counter</a> |
-  <a href="https://github.com/ashleyreagan/water-quality-amd">💧 AMD Water Quality</a> |
+  <a href="https://github.com/ashleyreagan/AMD_Water_Quality_Pipeline">💧 AMD Water Quality</a> |
   <a href="https://github.com/ashleyreagan/MineAI">🪨 MineAI</a>
 </p>
 
@@ -40,7 +40,7 @@ I’m a **physical scientist and geospatial systems developer** working at the i
 
 I build tools that bridge **historic data and modern intelligence**:  
 - 🌲 [**WV Tree Counter**](https://github.com/ashleyreagan/wv-tree-counter) — an AI-assisted forestry pipeline mapping canopy density and post-mining reforestation progress using DeepForest and NAIP imagery.  
-- 💧 [**AMD Water Quality Analysis**](https://github.com/ashleyreagan/water-quality-amd) — monitoring and modeling acid mine drainage across abandoned mine lands, integrating WQP and field sensors for water restoration planning.  
+- 💧 [**AMD Water Quality Analysis**](https://github.com/ashleyreagan/AMD_Water_Quality_Pipeline) — monitoring and modeling acid mine drainage across abandoned mine lands, integrating WQP and field sensors for water restoration planning.  
 - 🧠 [**MineAI**](https://github.com/ashleyreagan/MineAI) — an OCR and YOLOv8-driven geospatial intelligence system that reads century-old underground mine maps, georeferences them, and turns them into modern datasets for OSMRE and AML programs.  
 
 Before that, I designed a **pipeline patrol and anomaly detection system** for aerial safety monitoring — integrating UAV imagery, LiDAR, and edge AI for field response and integrity mapping.  
