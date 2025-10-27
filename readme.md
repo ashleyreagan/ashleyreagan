@@ -22,16 +22,14 @@
 Integrating machine learning, remote sensing, and field science to restore mined and industrial lands through open-source geospatial tools.
 
 ---
-
 ## 🔬 Current Work
 
 | Project | Focus | Tech Stack |
 |----------|--------|-------------|
 | 🌲 **[WV Tree Counter](https://github.com/ashleyreagan/wv-tree-counter)** | Forestry AI for canopy cover and post-mining reforestation monitoring | DeepForest, NAIP, GeoPandas |
-| 💧 **[**AMD Water Quality Analysis**](https://github.com/ashleyreagan/AMD_Water_Quality_Pipeline)** | Acid mine drainage monitoring and restoration analytics | Pandas, WQP API, Matplotlib |
+| 💧 **[AMD Water Quality Analysis](https://github.com/ashleyreagan/AMD_Water_Quality_Pipeline)** | Acid mine drainage monitoring and restoration analytics | Pandas, WQP API, Matplotlib |
 | 🪨 **[MineAI](https://github.com/ashleyreagan/MineAI)** | AI-assisted geospatial intelligence for historic mine maps | YOLOv8, OCR, Rasterio |
-| 🚁 **Pipeline Patrol System** | UAV-based anomaly detection for pipeline integrity and aerial mapping | LiDAR, OpenCV, Edge AI |
-
+| 🚁 **[Pipeline Patrol System](https://github.com/ashleyreagan/Integrated_Pipeline_Patrol_Analytics)** | UAV-based anomaly detection for pipeline integrity and aerial mapping | LiDAR, OpenCV, Edge AI |
 ---
 
 ## 🪨 About Me  
